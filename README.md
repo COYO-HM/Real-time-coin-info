@@ -24,3 +24,32 @@ npm start
 - react-query v_4.0.0
 - react-apexcharts v_1.4.0
 - eslint
+
+## Project Structure
+
+```Plain Text
+src
+├── api ──────────────────  Fetching Data
+│
+├── atoms ────────────────  Global State
+│
+├── components ───────────  view 컴포넌트
+│   ├── Charts
+│   └── ToggleSwitch
+│
+├── images ───────────────  이미지 파일
+│
+├── pages ────────────────  페이지
+│   ├── Coin
+│   └── Home
+│
+├── style ────────────────  styled-components' custom style & theme & GlobalStyle
+│   ├── globalStyle
+│   ├── index
+│   ├── styled.d.ts
+│   └── theme
+│
+├── App.js ───────────────  Route 처리 & Theme Context 적용 & GlobalStyle 적용
+│
+└── index.js ─────────────  애플리케이션 엔트리 포인트
+```
