@@ -8,7 +8,7 @@ export const Container = styled.div`
 `;
 
 export const Header = styled.header`
-  height: 10vh;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;

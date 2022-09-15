@@ -9,8 +9,8 @@ const ToggleWrapper = styled.div<IToggle>`
   position: absolute;
   width: 200px;
 
-  top: calc(5vh - 23px);
-  left: calc(50vh - 160px);
+  top: 27px;
+  left: calc(50% + 120px);
 
   label {
     position: absolute;

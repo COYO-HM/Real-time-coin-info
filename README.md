@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56423604/189612943-4b9fccc9-2a2d-4447-8c3a-1d0bd1412d45.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56423604/190421413-cf6b119d-705e-452b-90df-23c669a102e9.gif)
 
 코인 정보와 실시간 가격을 CANDLE STICK CHART로 볼 수 있는 사이트 입니다.
 
